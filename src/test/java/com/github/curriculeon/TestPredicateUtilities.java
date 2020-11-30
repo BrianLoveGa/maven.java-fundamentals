@@ -11,7 +11,7 @@ public class TestPredicateUtilities {
     private static volatile PredicateUtilities predicateUtilities = new PredicateUtilities();
 
     @Test
-    public void testReturnTrue(){
+    public void testReturnTrue() {
         // : Given
         // : When
         // : Then
@@ -19,7 +19,7 @@ public class TestPredicateUtilities {
     }
 
     @Test
-    public void testReturnFalse(){
+    public void testReturnFalse() {
         // : Given
         // : When
         // : Then
